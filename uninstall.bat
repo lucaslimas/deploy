@@ -12,3 +12,5 @@ ECHO REMOVING SERVICE %SERVICE_NAME%
 
 %NSSM% stop %SERVICE_NAME%
 %NSSM% remove %SERVICE_NAME% confirm
+
+pause
