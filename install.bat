@@ -37,4 +37,8 @@ ECHO INSTALLING SERVICE %SERVICE_NAME%
 %NSSM% set %SERVICE_NAME% AppRotateBytes 524288
 %NSSM% start %SERVICE_NAME%
 
+<<<<<<< HEAD
 pause
+=======
+pause
+>>>>>>> 401d47d71a988e49f8f73fdf40548ad4a2a714b6
